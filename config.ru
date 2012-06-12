@@ -14,8 +14,13 @@ get '/hi' do
 end
 
 get '/counter' do
-  @counter = REDIS.incr("counter")
+  @counter = REDIS.incr "counter"
   haml :counter
+end
+
+get '/counter/reset' do
+  REDIS.del "counter"
+  redirect '/counter'
 end
 
 use Sinatra::Application

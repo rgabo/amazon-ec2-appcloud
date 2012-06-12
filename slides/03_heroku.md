@@ -21,9 +21,9 @@
  * Loggolás, hibakezelés, analytics
  * Feladatkezelés, emailezés
  * ...
- * Jelenleg 87 különbözo add-on és folyamatosan bovül a kínálat (bárki csinálhat)
+ * Jelenleg 87 különböző add-on és folyamatosan bővül a kínálat
 
-!SLIDE bullets incremental
+!SLIDE bullets
 
 # DEMO
 

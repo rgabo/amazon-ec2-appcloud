@@ -1,3 +1,7 @@
+.content {
+  font-family: Futura;
+}
+
 .bullets ul {
   list-style-type: none;
   padding: 0;
@@ -12,7 +16,7 @@
 .smbullets ul {
   list-style-type: none;
   padding: 0;
-  font-size: 2em;
+  font-size: 1.8em;
 }
 .smbullets ul li {
   text-align: center;
@@ -27,8 +31,4 @@
 
 .smbullets ul li ul li{
   padding: 2px;
-}
-
-pre {
-  font-size: 1.8em;
 }

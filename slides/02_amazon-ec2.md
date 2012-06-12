@@ -37,16 +37,19 @@
 # Szolgáltatásmodell
 
 * **IaaS** - virtuális gépek, szerverek, tárolás, terhelésmegosztás, hálózat, ...
-  * Amazon Web Services
+  * Amazon Web Services (EC2, EBS, ELB)
   * Rackspace Cloud
+  * Microsoft Azure
 * **PaaS** - futtató környezet, adatbázis, webszerver, fejlesztői eszközök, ...
-  * Elast Beanstalk
+  * Elastic Beanstalk
   * Heroku
   * Engine Yard
   * Google App Engine
   * Microsoft Azure
-* **SaaS** - CRM, email, kommunikáció, csak ne kelljen telepíteni...
+* **SaaS** - CRM, email, kommunikáció, ...
   * Google Apps
+  * Salesforce
+  
 
 !SLIDE full-page
 

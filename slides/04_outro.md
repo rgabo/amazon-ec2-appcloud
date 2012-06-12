@@ -1,16 +1,16 @@
 !SLIDE bullets incremental
 
-# További gondolatok
+# Tanulságok
 
  * Fókuszálj a termékedre, ne adminisztrációra, konfigurálásra, menedzselésre
- * Ha eszedbejutott, akkor nagy valószinuséggel valaki már megcsinálta
+ * Ha eszedbejutott, akkor nagy valószinűséggel valaki már megcsinálta
  * Teljesen ingyen kipróbálható, utána annyit fizetsz érte, amennyit használod
 
 !SLIDE bullets incremental
 
 # Jelenlegi hátrányok
 
- * EC2 (AWS) legközelebb Írországban érheto el
+ * EC2 (AWS) legközelebb Írországban érhető el
  * Heroku az USA keleti partján
  * EC2 I/O teljesítménye hagy kivánnivalót maga után
 

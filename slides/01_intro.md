@@ -16,9 +16,9 @@ Secret Sauce Partners, Inc.
 
 # Kik vagyunk?
 
-* Amerikai startup, budapesti fejlesztoiroda (est. 2010)
+* Amerikai startup, budapesti fejlesztőiroda (est. 2010)
 * B2B szolgáltatás amerikai, angol és német cégeknek
-* Hatalmas forgalom elso naptól fogva
+* Hatalmas forgalom első naptól fogva
 
 !SLIDE
 

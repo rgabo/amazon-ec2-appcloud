@@ -1,0 +1,70 @@
+GIT
+  remote: git://github.com/schacon/showoff.git
+  revision: cd36eac8109b7af6f756c3629665eecd162c4f7f
+  specs:
+    showoff (0.7.0)
+      gli (>= 1.3.2)
+      json
+      nokogiri
+      parslet
+      redcarpet
+      sinatra (~> 1.3)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.2.8)
+    blankslate (2.1.2.4)
+    daemons (1.1.8)
+    eventmachine (0.12.10)
+    excon (0.14.0)
+    gli (1.6.0)
+    haml (3.1.6)
+    heroku (2.26.7)
+      heroku-api (~> 0.2.4)
+      launchy (>= 0.3.2)
+      netrc (~> 0.7.4)
+      rest-client (~> 1.6.1)
+      rubyzip
+    heroku-api (0.2.4)
+      excon (~> 0.14.0)
+    json (1.7.3)
+    launchy (2.1.0)
+      addressable (~> 2.2.6)
+    mime-types (1.18)
+    netrc (0.7.4)
+    nokogiri (1.5.4)
+    parslet (1.4.0)
+      blankslate (~> 2.0)
+    pdfkit (0.5.2)
+    rack (1.4.1)
+    rack-protection (1.2.0)
+      rack
+    redcarpet (2.1.1)
+    redis (3.0.1)
+    rest-client (1.6.7)
+      mime-types (>= 1.16)
+    rmagick (2.13.1)
+    rubyzip (0.9.8)
+    sinatra (1.3.2)
+      rack (~> 1.3, >= 1.3.6)
+      rack-protection (~> 1.2)
+      tilt (~> 1.3, >= 1.3.3)
+    thin (1.3.1)
+      daemons (>= 1.0.9)
+      eventmachine (>= 0.12.6)
+      rack (>= 1.0.0)
+    tilt (1.3.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  haml
+  heroku
+  pdfkit
+  redis
+  rmagick
+  showoff!
+  sinatra
+  thin

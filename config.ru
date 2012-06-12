@@ -9,9 +9,14 @@ configure do
   REDIS = Redis.new(:host => uri.host, :port => uri.port, :password => uri.password)
 end
 
-get '/' do
+get '/hi' do
+  "Hello App!cloud!"
+end
+
+get '/counter' do
   @counter = REDIS.incr("counter")
   haml :counter
 end
 
-run Rack::URLMap.new("/" => ShowOff.new, "/counter" => Sinatra::Application)
+use Sinatra::Application
+run ShowOff.new

@@ -1,3 +1,4 @@
+require "bundler/setup"
 require "redis"
 require "showoff"
 require "sinatra"

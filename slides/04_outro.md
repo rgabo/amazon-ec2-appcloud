@@ -8,11 +8,12 @@
 
 !SLIDE bullets incremental
 
-# Jelenlegi hátrányok
+# Hátrányok
 
  * EC2 (AWS) legközelebb Írországban érhető el
  * Heroku az USA keleti partján
  * EC2 I/O teljesítménye hagy kivánnivalót maga után
+ * Vendor lock-in
 
 !SLIDE
 

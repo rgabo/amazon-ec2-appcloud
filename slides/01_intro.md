@@ -19,6 +19,7 @@ Secret Sauce Partners, Inc.
 * Amerikai startup, budapesti fejlesztőiroda (est. 2010)
 * B2B szolgáltatás amerikai, angol és német cégeknek
 * Hatalmas forgalom első naptól fogva
+* Kis, 4 fős fejlesztői csapat (DevOps)
 
 !SLIDE
 

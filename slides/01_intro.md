@@ -1,7 +1,7 @@
 !SLIDE 
 ![Amazon Web Services](aws.jpg)
 
-## Amazon EC2
+## Amazon EC2 - A paradicsom meghódítása
 
 Gabor Ratky
 
@@ -17,9 +17,15 @@ Secret Sauce Partners, Inc.
 # Kik vagyunk?
 
 * Amerikai startup, budapesti fejlesztőiroda (est. 2010)
-* B2B szolgáltatás amerikai, angol és német cégeknek
+* 4 termék közel egy év alatt
+* Fit Predictor: B2B szolgáltatás amerikai, angol és német cégeknek
 * Hatalmas forgalom első naptól fogva
+* Változó erőforrásigény (adatfeldolgozás, forgalom)
 * Kis, 4 fős fejlesztői csapat (DevOps)
+
+!SLIDE full-page
+
+![Fit Predictor on ideeli](ideeli_fit_predictor.png)
 
 !SLIDE
 

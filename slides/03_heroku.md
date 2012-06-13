@@ -5,8 +5,8 @@
 ![Heroku](heroku.jpg)
 
  * 'Cloud application platform'
- * Eredetileg Ruby, most már Java, Python, Scala, Node.js, Clojure
  * Teljesen menedzselt környezet (nem kell szerverekben gondolkozni)
+ * Eredetileg Ruby, most már Java, Python, Scala, Node.js, Clojure
  * Egyetlen paranccsal deployolható és skálázható bármilyen alkalmazás
  * Jól átgondolt architektúra, környezet
  * EC2-n fut

@@ -11,7 +11,7 @@ Secret Sauce Partners, Inc.
 
 ![Secret Sauce Partners](ssp.png)
 
-!SLIDE smbullets
+!SLIDE smbullets incremental
 ![Secret Sauce Partners](ssp.png)
 
 # Kik vagyunk?
